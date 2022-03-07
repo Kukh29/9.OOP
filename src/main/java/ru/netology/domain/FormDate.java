@@ -1,4 +1,4 @@
-package ru.netology.manager;
+package ru.netology.domain;
 
 public class FormDate {
     public int day;

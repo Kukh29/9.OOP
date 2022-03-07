@@ -1,7 +1,5 @@
 package ru.netology.domain;
 
-import ru.netology.manager.FormDate;
-
 public class Post {
     public String name;
     public String passport;
